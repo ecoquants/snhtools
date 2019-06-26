@@ -1,0 +1,5 @@
+The proposal is located within the Ben More WLA. We advise that landscape and visual impacts of this development could be reduced further to that suggested in the application by implementing the following:
+
+- The proposed colour of the penstock. Although the penstock will be buried for the majority of its length to reduce the visual impact, unburied sections, depending on the colour, will impact upon views towards the WLA. We request that the pipeline used be black matt in colour (or similar), and that where possible turf or other vegetation is used to cover it.
+
+- Green ATV/footpath. Reinstatement should ensure that the track effectively blends and merges with the surrounding topography ideally revegetated with heather and turfs from the surrounding area. All reinstatement should be carried out in accordance with the associated best practice guidelines thereby minimising any impacts on the natural heritage. Further information can be found on the SNH website at: https://www.nature.scot/good-practice-image-guide-contractors 

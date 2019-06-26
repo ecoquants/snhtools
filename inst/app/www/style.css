@@ -1,8 +1,15 @@
 #map {
-  height: calc(100vh - 80px) !important;
+  height: calc(100vh - 135px) !important;
 }
 
+/*
 section.sidebar .btn-dropdown-input {
     padding: 12px 15px 0px 15px;
     white-space: normal;
+}
+*/
+
+section.sidebar .dropdown-toggle {
+    width: 200px;
+    text-align: left;
 }

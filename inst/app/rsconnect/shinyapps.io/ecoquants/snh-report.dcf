@@ -1,0 +1,12 @@
+name: snh-report
+title: snh-report
+username:
+account: ecoquants
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 998082
+bundleId: 2178029
+url: https://ecoquants.shinyapps.io/snh-report/
+when: 1561492026.40328
+asMultiple: FALSE
+asStatic: FALSE

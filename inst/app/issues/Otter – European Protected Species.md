@@ -1,0 +1,5 @@
+As a European Protected Species, otter are fully protected under the Conservation (Natural Habitats, &c.) Regulations 1994 (as amended). Further information on protected animals and legislation can be found on the SNH website at http://www.snh.gov.uk/protecting-scotlands-nature/protected-species/legal-framework/
+
+The presence of otter has been recorded on the Coladoir River which has been identified as a foraging and commuting area. However, we note that there are no holts or resting up places located within 250m of the proposal.
+
+Provided the development is carried out in accordance with Appendix B. Species Protection Plan included in the Otter Survey accompanying the application and Annex A below, then it is considered that there will not be any long-term displacement or disturbance. However, if the development is not carried out in accordance with the recommendations, the applicant may risk committing an offence. Further information can be found on the SNH website at: https://www.nature.scot/professional-advice/safeguarding-protected-areas-and-species/protected-species/protected-species-z-guide/protected-species-otters
